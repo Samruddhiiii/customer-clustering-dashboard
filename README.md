@@ -33,7 +33,6 @@ This project was initially built using Flask, but it was **time-consuming and re
 - `Mall_Customers.csv`: Customer dataset with Age, Gender, Income, and Spending Score
 - `mall_streamlit_app.py`: Streamlit-based frontend for data visualization
 - `two.py`: Python script with all clustering logic and helper functions
-- `Mall Customers Segmentation.ipynb`: Jupyter Notebook for step-by-step clustering analysis
 
 ---
 
@@ -41,6 +40,6 @@ This project was initially built using Flask, but it was **time-consuming and re
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/mall-customer-segmentation.git
+git clone https://github.com/Samruddhiiii/mall-customer-segmentation.git
 cd mall-customer-segmentation
 
