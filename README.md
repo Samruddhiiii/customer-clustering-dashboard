@@ -1,10 +1,10 @@
-# 🛍️ Mall Customers Segmentation (KMeans + Streamlit)
+# Mall Customers Segmentation (KMeans + Streamlit)
 
 This project applies **KMeans clustering** to segment mall customers based on key features like Age, Annual Income, and Spending Score. It includes an **interactive dashboard built with Streamlit** for real-time cluster visualization.
 
 ---
 
-## 📌 Key Features
+## Key Features
 
 - 💡 **KMeans Clustering** to segment customers into behavior-based groups
 - 📊 **Visualizations**: Cluster plots, heatmaps, histograms, violin plots, and the Elbow method
@@ -35,11 +35,3 @@ This project was initially built using Flask, but it was **time-consuming and re
 - `two.py`: Python script with all clustering logic and helper functions
 
 ---
-
-## ▶️ How to Run
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Samruddhiiii/mall-customer-segmentation.git
-cd mall-customer-segmentation
-
